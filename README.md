@@ -2,7 +2,8 @@
 if you want the most free ess ever or need to fix non-perfect diagonals. for arduino nano
 
 # how to wire
-* logic level converter for 3.3 / 5v for 3.3v n64/controller logic with 5v arduino
+* logic level converter for 3.3v / 5v for 3.3v n64/controller logic with 5v arduino
+* step up 3.3v to 5v to power the arduino off the n64 power line
 * hook up the data line for n64 on pin 8 (thru llc)
 * hook up the data line for the controller on pin 10 (thru llc)
 * power controller via 3.3v from n64
